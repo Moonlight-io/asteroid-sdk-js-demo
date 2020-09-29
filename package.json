@@ -1,0 +1,10 @@
+{
+  "name": "asteroid-sdk-js-demo",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@moonlight-io/asteroid-sdk-js": "git://github.com/moonlight-io/asteroid-sdk-js.git#develop"
+  }
+}
