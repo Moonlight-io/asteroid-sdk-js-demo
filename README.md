@@ -13,3 +13,6 @@ $ npm install --save git://github.com/moonlight-io/asteroid-sdk-js.git#develop
 ## Get Started
 
 Refer to self-documented code examples in `/examples` directory of this project.
+
+For the most basic example to check if package is installed correct, its reference and network connectivity:
+* `/examples/js/rest/user/version.js`
